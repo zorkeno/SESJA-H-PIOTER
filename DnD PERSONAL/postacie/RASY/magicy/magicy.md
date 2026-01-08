@@ -1,0 +1,3 @@
+[[PURE BLOOD]]
+[[HALF BLOOD]]
+[[MUGOL]]

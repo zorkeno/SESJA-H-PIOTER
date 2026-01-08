@@ -1,0 +1,1 @@
+duchy goblinów -nienawidzą ludzi

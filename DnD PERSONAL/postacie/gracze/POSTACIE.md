@@ -1,0 +1,2 @@
+[[postać dodga]]
+[[postać gawrona]]
