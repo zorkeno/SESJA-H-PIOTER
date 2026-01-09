@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c1dc4a83f064f0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "80cb7350298c34fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49d270b0cedfd21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9c953efaa61879b",
+    "type": "split",
+    "children": [
+      {
+        "id": "043e934d5ea0e2bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad2f42705eb709a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c01e6d1dcbd4461a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#chochliki",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48b86d6280e1e397",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "9c05dda25f0f6b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b9b7cc83c38277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d957ae9044c0e733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "39fe65a225b170f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "25bccc943c65e482",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e093f4f0e84fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ad2f42705eb709a",
+  "lastOpenFiles": [
+    "istoty/KLASYFIKACJE.md",
+    "XX.md",
+    "istoty/primal beast/LEWIATAN.md",
+    "istoty/Untitled 1",
+    "istoty/primal beast/ICE MOUTAIN GOLEM.md",
+    "istoty/primal beast/LAVA CRAB.md",
+    "istoty/primal beast/paszczur.md",
+    "istoty/primal beast/THE CORRUPTED ASYL.md",
+    "postacie/NPC/kierowca.md",
+    "istoty/Untitled",
+    "przedmioty magiczne/świstochliki.md",
+    "postacie/RASY/npc character.md",
+    "postacie/RASY/gobliny/gobliny.md",
+    "istoty/przeciwnicy/duchy gobliny.md",
+    "istoty/primal beast/mahorga.md",
+    "istoty/wkurwiacze/chochliki.md",
+    "istoty/przeciwnicy/gobliny.md",
+    "istoty/primal beast/dewot.md",
+    "istoty/stworzenia/dieta stworzeń/dieta małych mięsożerców.md",
+    "istoty/stworzenia/dieta stworzeń",
+    "przedmioty magiczne/magiczne owoce-boom.md",
+    "przedmioty magiczne",
+    "istoty/stworzenia/krowy.md",
+    "postacie/RASY/skrzat/skrzat domowy.md",
+    "postacie/RASY/centaury/centaury.md",
+    "postacie/RASY/magicy/CENTAURY.md",
+    "postacie/RASY/skrzat",
+    "postacie/gracze/postać dodga.md",
+    "postacie/RASY/centaury",
+    "postacie/RASY/gobliny",
+    "postacie/RASY/magicy/ANIMAG.md",
+    "postacie/gracze/POSTACIE.md",
+    "postacie/RASY/magicy/magicy.md",
+    "postacie/RASY/magicy",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "SZKOŁY/SLYTHERIN.canvas",
+    "regiony/stworzenia.canvas"
+  ]
+}

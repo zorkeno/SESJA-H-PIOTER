@@ -1,0 +1,1 @@
+duchy ,antyczna magia ,dementorzy i gnomia zbroja co może pójść źle 
