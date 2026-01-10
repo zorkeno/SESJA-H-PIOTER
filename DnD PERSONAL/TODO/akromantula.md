@@ -1,0 +1,1 @@
+groźny pajęczy przeciwnik normalna dorasła samica jest 2 x większa,wielkość NÓG samca to 15 m,SILNE KOŃCZYNY,SZCZĘKI,UNIKALNE CECHY-SKRZYPCE(KLEKOT PODCZAS PODNIECENIA-TRUJE WŁOSKAMI),MOŻE ZNIEŚĆ 100 JAJ DZIENNIE(6-8 TYG WYKLUWANIE)
